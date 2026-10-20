@@ -1,27 +1,29 @@
 # 👋 Hi, I'm Alvin Sánchez
 
-I'm an aspiring developer from **Tijuana, Mexico** 🇲🇽.  
-I'm passionate about learning and growing in the world of software development, especially in **JavaScript, Node.js, and Express**. Currently, I'm participating in initiatives like **Hacktoberfest** and looking to collaborate on open source projects.
+I'm a **Software Engineer** from **Tijuana, Mexico** 🇲🇽.  
+I specialize in **Backend Software Engineering**, focusing on building robust APIs, scalable architectures, and database design with **C# and .NET**. Continuously expanding my stack towards **Full Stack Development** with React.
 
 ---
 
 ## 🛠️ Technologies I use and I'm learning
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)   
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
 ---
 
 ## 🚀 Current Goals
-- Contribute to open source projects 🌍  
-- Improve my backend skills with JavaScript ⚡  
-- Build a solid portfolio of personal projects 📂  
+
+- 🏗️ Building high-performance backend applications with **C# & .NET** ⚡  
+- 🐳 Containerizing microservices and database environments with **Docker**  
+- 🧠 Integrating AI tools efficiently into software development workflows  
+- ⚛️ Transitioning to Full Stack Development by mastering **React**  
 
 ---
 
@@ -33,6 +35,9 @@ I'm passionate about learning and growing in the world of software development, 
 ---
 
 ## 📫 Connect with me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/alvinsanchez93)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/alvinsanchezdev)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/alvinsanchezdev)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvinsanchez93/)  
